@@ -6,10 +6,14 @@ Estudante de Análise e Desenvolvimento de Sistemas, com interesse em desenvolvi
 
 ## Certificados
 
-### GitHub
+### Introdução ao GitHub
 
-- **Introdução ao GitHub** — Microsoft  
-  Concluído em 02/09/2026
+Concluído em 02/09/2026.
 
-- **Introdução ao Git** — Microsoft  
-  Concluído em 02/09/2026
+![Certificado Introdução ao GitHub](./certificado-github.png)
+
+### Introdução ao Git
+
+Concluído em 02/09/2026.
+
+![Certificado Introdução ao Git](./certificado-git.png)
